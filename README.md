@@ -8,6 +8,10 @@ e códigos, com o objetivo de documentar minha jornada de aprendizado e comparti
 ### Regras e convenções
 - Em Java, o nome de uma classe sempre se inicia com letra maiúscula e, quando necessário, as palavras seguintes também têm seu case alterado, o que é conhecido como **_Camel case_**. Por exemplo: _MinhaClasse_ . <img src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png" align=right width="100"/>
 - Java é uma linguagem dita _Case sensitive_, que leva em consideração a distinção entre letras maiúsculas e minúsculas na escrita das instruções.
+- Aplicações Java em geral possuem um único método **main**.
+
+
+### Variáveis e tipos primitivos em Java
 
 
 
